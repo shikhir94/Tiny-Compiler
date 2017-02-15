@@ -4,7 +4,7 @@ Hey There,
 To run the compiler as well as the language all you need to do:
 1. download TWS.zip (of course!!)
 2. unzip it to any of your directory.
-3. open teminal(mac or linux) or cmd for windows.
+3. open teminal(mac or linux) which is preferable or cmd for windows.
 4. go to your directory.
 5. go to tws/tiny.
 6. run make (make sure that you have gcc on you machine)
