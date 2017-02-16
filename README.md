@@ -24,3 +24,4 @@ NOTE:
 2. some test cases might give a parse error as the compiler is configured like that.
 3. its preferable to run test cases in test-progs/pr4.* as compiler is fully configured for that.
 4. source code are in files CodeGenerator.c as well as Constrainer.c
+5. Grammer is in tiny/parser/parse.tiny
